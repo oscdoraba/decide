@@ -2,7 +2,7 @@
 
 Plataforma voto electrónico educativa
 =====================================
-Cambio en la rama practica3 despues del merge
+Cambio en la rama practica3 despues del merge, para hacer una pull request
 Edicion rama master
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
